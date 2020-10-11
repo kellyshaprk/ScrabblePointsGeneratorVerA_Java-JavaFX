@@ -23,6 +23,6 @@ For example, there are 9 "A" letters in the bag in scrabble. If the user enters 
 <img src="game4.PNG" alt="game image" width="50%"  height="50%"/>
 <li>The game's over when :</li>
 <br /> &nbsp; - only consonants remaining.
-<img src="game5.PNG" alt="game image" width="50%"  height="50%"/>
+<br /> <img src="game5.PNG" alt="game image" width="50%"  height="50%"/>
 <br />&nbsp; - only one letter remaining in the bag.
-<img src="game6.PNG" alt="game image" width="50%"  height="50%"/>
+<br /> <img src="game6.PNG" alt="game image" width="50%"  height="50%"/>
