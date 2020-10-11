@@ -13,14 +13,14 @@ For example, there are 9 "A" letters in the bag in scrabble. If the user enters 
 <br />
 
 #### Rules
-- Two letters minumum, one letter must be vowel (A, E, I, O, U, or Y)
+* Two letters minumum, one letter must be vowel (A, E, I, O, U, or Y)
 <img src="game2.PNG" alt="game image" style="float:left; width=40%; height=40%"/>
-- 8 letters maximum
+* 8 letters maximum
 <img src="game3.PNG" alt="game image" style="float:left; width=40%; height=40%"/>
-- Cannot have duplicate words
+* Cannot have duplicate words
 <img src="game4.PNG" alt="game image" style="float:left; width=40%; height=40%"/>
-- The game's over when :
-<br />&nbsp; - only consonants remaining.
+* The game's over when :
+<br /> > * only consonants remaining.
 <img src="game5.PNG" alt="game image" style="float:left; width=40%; height=40%"/>
-&nbsp; - only one letter remaining in the bag.
+> * only one letter remaining in the bag.
 <img src="game6.PNG" alt="game image" style="float:left; width=40%; height=40%"/>
