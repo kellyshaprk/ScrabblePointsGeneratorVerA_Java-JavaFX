@@ -4,7 +4,7 @@
 A JavaFX application named "Scrabble points Generator".
 <br />The application will allow the user to TYPE in a word  or CLICK word buttons and it will calculate how many points that word is
 using the scrabble point system.
-<img src="game1.PNG" alt="game image" width="70%" height="70%" />
+<img src="game1.PNG" alt="game image" width="60%" height="60%" />
 <br />
 
 ####  The Scrabble Point/Letters System
@@ -14,13 +14,13 @@ For example, there are 9 "A" letters in the bag in scrabble. If the user enters 
 
 #### Rules
 - Two letters minumum, one letter must be vowel (A, E, I, O, U, or Y)
-<img src="game2.PNG" alt="game image" width="70%" height="70%" />
+<img src="game2.PNG" alt="game image" width="60%" height="60%" />
 - 8 letters maximum
-<img src="game3.PNG" alt="game image" width="70%" height="70%" />
+<img src="game3.PNG" alt="game image" width="60%" height="60%" />
 - Cannot have duplicate words
-<img src="game4.PNG" alt="game image" width="70%" height="70%" />
+<img src="game4.PNG" alt="game image" width="60%" height="60%" />
 - The game's over when :
 <br />&nbsp; - only consonants remaining.
-<img src="game5.PNG" alt="game image" width="70%" height="70%" />
-<br />&nbsp; - only one letter remaining in the bag.
-<img src="game6.PNG" alt="game image" width="70%" height="70%" />
+<img src="game5.PNG" alt="game image" width="60%" height="60%" />
+&nbsp; - only one letter remaining in the bag.
+<img src="game6.PNG" alt="game image" width="60%" height="60%" />
