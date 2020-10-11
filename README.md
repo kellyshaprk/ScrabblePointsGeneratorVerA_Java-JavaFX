@@ -1,5 +1,5 @@
 ## Scrabble Points Generator Version A
-
+ 
 ### Description
 A JavaFX application named "Scrabble points Generator".
 <br />The application will allow the user to TYPE in a word  or CLICK word buttons and it will calculate how many points that word is
