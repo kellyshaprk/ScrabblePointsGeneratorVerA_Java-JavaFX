@@ -4,7 +4,7 @@
 A JavaFX application named "Scrabble points Generator".
 <br />The application will allow the user to TYPE in a word  or CLICK word buttons and it will calculate how many points that word is
 using the scrabble point system.
-<img src="game1.PNG" alt="game image" style="float:left; width="60%"; height="60%" />
+<img src="game1.PNG" alt="game image" style="float:left; width=60%; height=60%"/>
 <br />
 
 ####  The Scrabble Point/Letters System
