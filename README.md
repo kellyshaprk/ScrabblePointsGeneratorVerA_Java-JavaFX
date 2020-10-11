@@ -8,7 +8,7 @@ using the scrabble point system.
 <br />
 
 ####  The Scrabble Point/Letters System
-<img src="system.PNG" alt="game point and letters system image"  style="float:left; width=80%; height=80%/>
+<img src="system.PNG" alt="game point and letters system image"  style="float:left; width=70%; height=70%"/>
 For example, there are 9 "A" letters in the bag in scrabble. If the user enters the words "ha" and "able", there are only 7 "A" letters left. And the point is 11 (HA: 5, ABLE: 6). 
 <br />
 
