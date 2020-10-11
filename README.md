@@ -17,6 +17,7 @@ For example, there are 9 "A" letters in the bag in scrabble. If the user enters 
 <ul>
 <li>Two letters minumum, one letter must be vowel (A, E, I, O, U, or Y)</li>
 <img src="game2.PNG" alt="game image" width="50%" height="50%"/>
+<br /><img src="game2-1.PNG" alt="game image" width="50%" height="50%"/>
 <li>8 letters maximum</li>
 <img src="game3.PNG" alt="game image" width="50%"  height="50%"/>
 <li>Cannot have duplicate words</li>
