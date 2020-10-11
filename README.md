@@ -9,7 +9,7 @@ using the scrabble point system.
 <br />
 
 ####  The Scrabble Point/Letters System
-<img src="system.PNG" alt="game point and letters system image"  width="70%" height="70%"/>
+<img src="system.PNG" alt="game point and letters system image" width="60%" height="60%"/>
 For example, there are 9 "A" letters in the bag in scrabble. If the user enters the words "ha" and "able", there are only 7 "A" letters left. And the point is 11 (HA: 5, ABLE: 6). 
 <br />
 
@@ -22,7 +22,7 @@ For example, there are 9 "A" letters in the bag in scrabble. If the user enters 
 <li>Cannot have duplicate words</li>
 <img src="game4.PNG" alt="game image" width="50%"  height="50%"/>
 <li>The game's over when :</li>
-<br /> &nbsp; - only consonants remaining.
+&nbsp; - only consonants remaining.
 <br /> <img src="game5.PNG" alt="game image" width="50%"  height="50%"/>
 <br />&nbsp; - only one letter remaining in the bag.
 <br /> <img src="game6.PNG" alt="game image" width="50%"  height="50%"/>
