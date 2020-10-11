@@ -16,5 +16,5 @@ For example, there are 9 "A" letters in the bag in scrabble. If the user enters 
 - 8 letters maximum
 - Cannot have duplicate words
 - The game's over when :
-<br />&nbsp;&nbsp; - only one letter remaining in the bag.
+<br />&nbsp; - only one letter remaining in the bag.
 <br />&nbsp;&nbsp; - only consonants remaining.
